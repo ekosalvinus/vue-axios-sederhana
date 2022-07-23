@@ -1,0 +1,49 @@
+{
+  "articles": [
+    {
+      "id": 1,
+      "title": "Judul Satu",
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo non quasi ullam quia quaerat officia voluptate modi, similique quo distinctio expedita possimus, itaque voluptates architecto sequi totam rem maiores id?"
+    },
+    {
+      "id": 2,
+      "title": "Judul Dua",
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo non quasi ullam quia quaerat officia voluptate modi, similique quo distinctio expedita possimus, itaque voluptates architecto sequi totam rem maiores id?"
+    },
+    {
+      "id": 3,
+      "title": "Judul Tiga",
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo non quasi ullam quia quaerat officia voluptate modi, similique quo distinctio expedita possimus, itaque voluptates architecto sequi totam rem maiores id?"
+    },
+    {
+      "id": 4,
+      "title": "Judul Empat",
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo non quasi ullam quia quaerat officia voluptate modi, similique quo distinctio expedita possimus, itaque voluptates architecto sequi totam rem maiores id?"
+    },
+    {
+      "id": 5,
+      "title": "Judul Lima",
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo non quasi ullam quia quaerat officia voluptate modi, similique quo distinctio expedita possimus, itaque voluptates architecto sequi totam rem maiores id?"
+    },
+    {
+      "title": "Judul Sembilan",
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo non quasi ullam quia quaerat officia voluptate modi, similique quo distinctio expedita possimus, itaque voluptates architecto sequi totam rem maiores id?",
+      "id": 9
+    },
+    {
+      "title": "Judul Sembilan",
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo non quasi ullam quia quaerat officia voluptate modi, similique quo distinctio expedita possimus, itaque voluptates architecto sequi totam rem maiores id?",
+      "id": 10
+    },
+    {
+      "title": "Judul Sepuluh",
+      "content": "Isi konten dengan judul sepuluh",
+      "id": 11
+    },
+    {
+      "title": "Judul Kesebelas",
+      "content": "Nemo non quasi ullam quia quaerat officia voluptate modi, similique quo distinctio expedita possimus, itaque voluptates architecto sequi totam rem maiores id",
+      "id": 12
+    }
+  ]
+}
